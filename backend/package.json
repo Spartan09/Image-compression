@@ -1,0 +1,18 @@
+{
+  "name": "imgcbackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "json-rpc-2.0": "^0.2.16",
+    "multer": "^1.4.2",
+    "node-fetch": "^2.6.1",
+    "zeromq": "^5.2.8"
+  }
+}
